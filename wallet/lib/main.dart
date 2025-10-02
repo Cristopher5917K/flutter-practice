@@ -44,7 +44,7 @@ class MyHomePage extends StatelessWidget {
             onPressed: () {
               print('button pressed!');
             },
-            child: Text('Next'),
+            child: Text('Continue'),
           ),
         ],
       ),
